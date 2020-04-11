@@ -36,4 +36,4 @@ The meat (or tofu if you are vegetarian) of this project. Contains all the pytho
 ![Alt](/Graphs/GroupPhoto.jpg)
 
 ### Note
-The repository is migrated from [here](https://github.com/rkastilani/PowerOutagePredictor/)
+The repository is migrated from [here](https://github.com/rkastilani/PowerOutagePredictor/).
