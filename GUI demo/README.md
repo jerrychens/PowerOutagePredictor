@@ -1,6 +1,6 @@
 ## GUI
 
-[Check out Index.html](https://github.com/rkastilani/PowerOutagePredictor/blob/master/GUI%20demo/index.html)
+[Check out Index.html](../index.html)
 
 The GUI can display the history of outages and the prediction data generated from any machine learning algorithm that the user preferred in the project. A web-based user interactive interface is built using Javascript. Users could read the prediction and history outages from the dashboard on any mobile device. Since the data is confidential, the outage data demonstration is only available from 2014/03/01 to 2014/03/30, and the information is hashed.
 
@@ -40,6 +40,6 @@ It must follow a format (.txt file) like this
 
 [4th line] Number of Equiptment Failure
 
-For example, [see here](https://github.com/rkastilani/PowerOutagePredictor/blob/master/GUI%20demo/data/prediction.txt)
+For example, [see here](../data/prediction.txt)
 
 
